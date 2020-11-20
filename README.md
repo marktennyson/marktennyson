@@ -29,9 +29,9 @@ I am an experienced full stack developer, AWS cloud architect, Certified Ethical
 <img align="left" alt="JavaScript" width="26px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" />
 <img align="left" alt="React" width="26px" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" />
 <!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-<img align="left" alt="SQL" width="26px" src="https://i.gifer.com/35lL.gif" />
+<img align="left" alt="SQL" width="26px" src="https://storage.googleapis.com/instruqt-shadow-resources/bigquery/BigQuery.gif" />
 <img align="left" alt="postgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
-<img align="left" alt="Git" width="26px" src="https://assets.materialup.com/uploads/a8d3dcda-37d6-42bd-bb02-afecc006253d/preview.gif" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
 <img align="left" alt="GitHub" width="26px" src="https://i1.wp.com/blog.mailtrap.io/wp-content/uploads/2020/06/git-cat.gif?fit=480%2C469&ssl=1" />
 <img align="left" alt="Docker" width="26px" src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" />
