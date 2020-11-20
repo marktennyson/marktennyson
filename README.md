@@ -21,20 +21,20 @@ I am an experienced full stack developer, AWS cloud architect, Certified Ethical
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />
+<img align="left" alt="HTML5" width="26px" src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
+<img align="left" alt="CSS3" width="26px" src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/source.gif" />
 <img align="left" alt="java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
-<img align="left" alt="SpringBoot" width="26px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="NodeJs" width="26px" src="https://e7.pngegg.com/pngimages/540/810/png-clipart-node-js-javascript-npm-computer-icons-web-application-others-miscellaneous-text-thumbnail.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" />
+<img align="left" alt="React" width="26px" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" />
+<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
+<img align="left" alt="SQL" width="26px" src="https://i.gifer.com/35lL.gif" />
+<img align="left" alt="postgreSQL" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
+<img align="left" alt="Git" width="26px" src="https://assets.materialup.com/uploads/a8d3dcda-37d6-42bd-bb02-afecc006253d/preview.gif" />
+<img align="left" alt="GitHub" width="26px" src="https://i1.wp.com/blog.mailtrap.io/wp-content/uploads/2020/06/git-cat.gif?fit=480%2C469&ssl=1" />
+<img align="left" alt="Docker" width="26px" src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" />
 
 
 <br />
