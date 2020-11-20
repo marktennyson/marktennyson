@@ -1,6 +1,6 @@
 #### Hello world, I'm Aniket Sarkar - aka marktennyson👋
 
-<img align="right" src="https://i.ibb.co/HNSJgSt/Xe5t-V880f-Gay-Awls-ATPCv-Q-unscreen.gif" width="auto" height="auto"/>
+<img align="right" src="https://uurl.xyz/29806805" width="auto" height="auto"/>
 
 
 I am an experienced full stack developer, AWS cloud architect, Certified Ethical Hacker and Blockchain Researcher. I have worked on technologies like react, vue, node, golang, c++, java, python, ubuntu, docker, kubernetes and also on AI technologies.
