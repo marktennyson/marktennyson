@@ -21,7 +21,7 @@ I am an experienced full stack developer, AWS cloud architect, Certified Ethical
 
 
 
-### Languages and Tools:
+<!-- ### Languages and Tools: -->
 <!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" />
 <img align="left" alt="HTML5" width="26px" src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
