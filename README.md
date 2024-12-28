@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/marktennyson)
 #### Hello world, I'm Aniket Sarkar - aka marktennyson👋
 
-<img align="right" src="https://i.ibb.co/KFG0R4h/57c41296.gif" width="auto" height="auto"/>
+<!--- <img align="right" src="https://i.ibb.co/KFG0R4h/57c41296.gif" width="auto" height="auto"/> -->
 
 
 I, a seasoned Full Stack Developer and AWS Cloud Architect, ardently traverse the realms of ethical hacking, championing the cause of open-source technologies, and delving into the intricacies of blockchain as a dedicated researcher. My prowess extends across a myriad of technologies, encompassing the likes of React, Vue, Node.js, Golang, C++, Java, Python, Django, jQuery, Ubuntu, Docker, Kubernetes, and the avant-garde of AI. This assemblage of knowledge and skill bespeaks a comprehensive mastery, enabling the orchestration and delivery of innovative solutions within the vast expanse of the technological landscape.
